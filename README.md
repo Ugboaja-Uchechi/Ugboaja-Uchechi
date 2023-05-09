@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Uchechi, I love to watch movies and listen to Eminem
+I'm Uchechi
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on Front-end projects and Back-end projects
 - 🌱 I’m currently learning HTML, CSS, Javascript, React, Ruby ,and Ruby on Rails
