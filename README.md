@@ -6,4 +6,4 @@ I'm Uchechi
 - 👯 I’m looking to collaborate on Front-end projects and Back-end projects
 - 😄 Open to new job opportunities
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stephanie-ugboaja-930a2a216/)
-- 🎨 [Portfolio](https://tired-coder.herokuapp.com/)
+- 🎨 [Portfolio](https://tired-coder.vercel.app/)
